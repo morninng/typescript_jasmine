@@ -1,0 +1,14 @@
+
+
+■テストのときにおこなうこと
+
+SpecRunnerにテストをするソースとテストコードを記載
+<script src="./ts/test.js"></script>
+<script src="./spec/test.js"></script>
+
+tsフォルダにTypescriptのコードを格納し、
+specフォルダ以下にテストコードを格納
+
+gup tsでビルド
+
+SpecRunner.htmlをダブルクリックして、確認
